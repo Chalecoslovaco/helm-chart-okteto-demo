@@ -4,4 +4,4 @@ description: A Node + Angular application in Kubernetes
 type: application
 version: 0.1.0
 appVersion: 1.0.0
-icon: https://okteto-charts.chalecoslovaco.com/mean-okteto-sample/icon.png
+icon: https://chalecoslovaco.github.io/okteto-charts/mean-okteto-sample/icon.png

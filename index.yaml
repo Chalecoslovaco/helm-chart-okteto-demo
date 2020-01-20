@@ -6,16 +6,16 @@ entries:
     created: 2019-10-14T22:05:11.567565+02:00
     description: A Node + Angular application in Kubernetes
     digest: f898bacc98a3072fa3c40579fe355cb76ee3156c0aa8290c7610925c68c18100
-    icon: https://okteto-charts.chalecoslovaco.com/mean-okteto-sample/icon.png
+    icon: https://chalecoslovaco.github.io/okteto-charts//mean-okteto-sample/icon.png
     name: mean-okteto-sample
     urls:
-    - https://okteto-charts.chalecoslovaco.com/mean-okteto-sample/mean-okteto-sample-0.1.0.tgz
+    - https://chalecoslovaco.github.io/okteto-charts/mean-okteto-sample/mean-okteto-sample-0.1.0.tgz
     version: 0.1.0
     devs:
       - name: api
-        repo: https://github.com/okteto/mean-okteto-sample
+        repo: https://github.com/chalecoslovaco/mean-okteto-sample
         manifest: nodejs-okteto-sample/okteto.yaml
       - name: frontend
-        repo: https://github.com/okteto/mean-okteto-sample
+        repo: https://github.com/chalecoslovaco/mean-okteto-sample
         manifest: ng-okteto-sample/okteto.yaml
 generated: 2020-01-20T22:05:11.560468+02:00
