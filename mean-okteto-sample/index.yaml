@@ -1,0 +1,15 @@
+apiVersion: v1
+entries:
+  mean-okteto-sample:
+  - apiVersion: v1
+    appVersion: 1.0.0
+    created: "2020-01-20T14:24:29.744942168+01:00"
+    description: An Angular + Nodejs application in Kubernetes
+    digest: e9fc15ec04a1ad942545d71731b8e5cdfdbd2032484972fbb680a72a18d7f1a5
+    icon: https://chalecoslovaco.github.io/okteto-charts//icon.png
+    name: movies
+    type: application
+    urls:
+    - https://chalecoslovaco.github.io/okteto-charts/mean-okteto-sample/mean-okteto-sample-0.1.0.tgz
+    version: 0.1.0
+generated: "2020-01-20T14:24:29.712054783+01:00"
